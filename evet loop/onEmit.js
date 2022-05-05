@@ -16,5 +16,3 @@ customEmitter.on('response', ()=>{
 customEmitter.emit('response', 'Yotam', 36)
 
 
-
-
